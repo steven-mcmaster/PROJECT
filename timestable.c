@@ -14,6 +14,7 @@ int main(void) {
   for(num = start; num < end; ++num) {
     printf(" %d\n", num);//add math stuff
   }
+  puts("");
   
 
 }
